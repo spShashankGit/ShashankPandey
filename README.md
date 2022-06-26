@@ -8,7 +8,7 @@
 
 🌏 Having worked in different teams in an Agile and International environment I have inculcated great collaboration skills. Working with remote clients has also enabled me to be effective in communication and understand non-functional requirements by asking the right questions and suggesting relevant solutions to the best of my knowledge.
 
-💬 Actively acceptiong connection request on www.linkedin.com/in/spshashank
+💬 Actively engaging in meaningful conversation on www.linkedin.com/in/spshashank
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spShashankGIT)](https://github.com/anuraghazra/github-readme-stats)
 
