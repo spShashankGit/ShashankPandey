@@ -1,4 +1,4 @@
-# ShashankPandey
+# Shashank Pandey
 
 🙋‍♂️ Hi my name is Shashank, Nice to meet you :) 
 
