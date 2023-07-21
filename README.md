@@ -8,4 +8,4 @@
 
 💫 Looking for a ML project to contribute
 
-💬 Actively engaging in meaningful conversation at www.linkedin.com/in/spshashank
+💬 Actively engaging in meaningful conversation at [LinkedIn](www.linkedin.com/in/spshashank)
