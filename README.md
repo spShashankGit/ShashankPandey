@@ -2,7 +2,7 @@
 
 🙋‍♂️ Hi my name is Shashank, Nice to meet you :) 
 
-⛹  ML Engineer & Fullstack Mobile App Developer
+⛹  Solutions Architect with Specialization in Machine Learning and Web Applications
 
 🏌️‍♂️ Currently Architecting and Developing a web application with ML backend
 
