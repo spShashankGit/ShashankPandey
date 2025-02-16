@@ -2,7 +2,7 @@
 
 🙋‍♂️ Hi my name is Shashank, Nice to meet you :) 
 
-⛹  Solutions Architect with Specialization in Machine Learning and Web Applications
+🚀  Solutions Architect with Specialization in Machine Learning and Web Applications
 
 💫 Looking for a ML project to contribute
 
