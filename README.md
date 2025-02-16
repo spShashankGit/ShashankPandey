@@ -4,8 +4,6 @@
 
 ⛹  Solutions Architect with Specialization in Machine Learning and Web Applications
 
-🏌️‍♂️ Currently Architecting and Developing a web application with ML backend
-
 💫 Looking for a ML project to contribute
 
 💬 Actively engaging in meaningful conversation at [LinkedIn](https://www.linkedin.com/in/spshashank)
